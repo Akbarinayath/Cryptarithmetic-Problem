@@ -1,7 +1,7 @@
 
 <h1>ExpNo 8 : Solve Cryptarithmetic Problem,a CSP(Constraint Satisfaction Problem) using Python</h1> 
-<h3>Name: B.Barkavi</h3>
-<h3>Register Number: 212224110011</h3>
+<h3>Name: Akbar I</h3>
+<h3>Register Number: 212224230014</h3>
 <H3>Aim:</H3>
 <p>
     To solve Cryptarithmetic Problem,a CSP(Constraint Satisfaction Problem) using Python
